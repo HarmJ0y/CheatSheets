@@ -1,7 +1,7 @@
 # CheatSheets
-Cheat sheets for various projects I contribute to (PowerView, PowerUp, and [Empire](https://github.com/powershellempire/Empire)).
+Cheat sheets for various projects I contribute to (PowerView, PowerUp, and [Empire](https://github.com/PowerShellEmpire/Empire)).
 
-**Note**: PowerView and PowerUp are in the process of being integrated into the [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) repository. The bit.ly links in the current sheets note where the eventual locations will be, but these two tools still reside in [PowerTools](https://github.com/powershellempire/powertools) for the next few weeks until the transition is completed.
+**Note**: PowerView and PowerUp have been integrated into the [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) repository. Their 'bleeding edge' versions will always be in the development branch. Empire has additional documentation at [http://www.powershellempire.com/](http://www.powershellempire.com/).
 
 ## License
 Creative Commons v3 "Attribution" License https://creativecommons.org/licenses/by/3.0/us/
